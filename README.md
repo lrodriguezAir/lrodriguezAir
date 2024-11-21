@@ -10,9 +10,8 @@
 </div>
 <hr/>
 
-- 🤠 I’m Lucía and I'm currently a student of the bachelor's degree of Statistic at the University of Salamanca.
-- 💼 Simultaneously, I'm doing an internship in the BISITE Research Group.
-- 🌱 My goal is to improve my skills on Data Science as well as introduce myself in Artificial Inteligence.
+- 🤠 I’m Lucía, a Statistician graduated from the University of Salamanca.
+- 💼 I’m currently pursuing a Master’s degree in Artificial Intelligence at the International University of La Rioja.
 - 📫 You can contact me at luciarodriguezgonz@gmail.com
 
 <hr/>
