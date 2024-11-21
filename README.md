@@ -11,7 +11,8 @@
 <hr/>
 
 - 🤠 I’m Lucía, a Statistician graduated from the University of Salamanca.
-- 💼 I’m currently pursuing a Master’s degree in Artificial Intelligence at the International University of La Rioja.
+- 🧠 I’m currently pursuing a Master’s degree in Artificial Intelligence at the International University of La Rioja.
+- 💼 I’m also working as a Data Scientist & AI Researcher at BISITE Research Group in Salamanca.
 - 📫 You can contact me at luciarodriguezgonz@gmail.com
 
 <hr/>
